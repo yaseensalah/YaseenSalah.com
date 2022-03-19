@@ -1,2 +1,2 @@
 # YaseenSalah.com
-Personal Website 2 http://yaseensalah.me/YaseenSalah.com/
+Personal Website 2 http://yaseensalah.github.io/YaseenSalah.com/
